@@ -87,7 +87,7 @@ article {
 }
 
 .hero article p {
-  color: var(--accent2-color);
+  color: white;
 }
 
 nav,
@@ -110,9 +110,11 @@ header img {
   width: 100px;
 }
 
-nav {
+nav ul {
   display: flex;
   justify-content: space-evenly;
+  width: 100%;
+  padding: 0;
 }
 
 nav a {
