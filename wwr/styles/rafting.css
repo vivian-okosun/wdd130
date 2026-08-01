@@ -62,7 +62,7 @@ h1 {
   text-align: center;
   opacity: 0.7;
   background-color: var(--accent1-color);
-  color: #fff;
+  color: var(--primary-color);
 }
 
 article {
@@ -121,6 +121,7 @@ nav a {
 }
 
 footer {
+  background-color: var(--accent2-color);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -134,6 +135,7 @@ footer {
 }
 
 .history h2 {
+  color: var(--accent2-color);
   grid-column: 1 / 4;
   text-align: center;
 }
