@@ -134,7 +134,7 @@ nav a:hover {
 
 .contact-info {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 40px 0;
 }
 
 .contact-info p {
@@ -322,7 +322,7 @@ footer {
 }
 
 footer p {
-  align-items: center;
+  margin: 0;
 }
 
 .socialmedia {
